@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRegion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Region>
+    <Code>2</Code>
+    <Name>Башкортостан</Name>
+    <Cities>
+      <City>
+        <Name>Стерлитамак</Name>
+        <Latitude>1</Latitude>
+        <Longitude>1</Longitude>
+      </City>
+      <City>
+        <Name>Уфа</Name>
+        <Latitude>2</Latitude>
+        <Longitude>1</Longitude>
+      </City>
+    </Cities>
+  </Region>
+  <Region>
+    <Code>96</Code>
+    <Name>Чечня</Name>
+    <Cities>
+      <City>
+        <Name>Грозный</Name>
+        <Latitude>10</Latitude>
+        <Longitude>30</Longitude>
+      </City>
+    </Cities>
+  </Region>
+  <Region>
+    <Code>48</Code>
+    <Name>Москва</Name>
+    <Cities />
+  </Region>
+</ArrayOfRegion>
